@@ -25,3 +25,7 @@ If you're confused, this is what I mean by "directly in the for loop":
 After mentioning my curiosity to a coworker, he suggested throwing
 `Jinja <http://jinja.pocoo.org/>`_ in the mix. So, we'll be running some
 experiments with the Django templating engine and Jinja.
+
+For the Django side of things, I'm focusing on 1.4. I know this is an older
+release but it's what is used by the project that brought this up in the first
+place.
