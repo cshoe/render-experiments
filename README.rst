@@ -18,7 +18,7 @@ If you're confused, this is what I mean by "directly in the for loop":
 
     {% for thing in many_things %}
         <li>
-            {{ thing.name }} is going to {{ thing.place }}.
+            {{ thing.name }} is going to {{ thing.number }}.
         </li>
     {% endfor %}
 

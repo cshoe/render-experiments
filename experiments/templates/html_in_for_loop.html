@@ -1,0 +1,7 @@
+<ul>
+{% for thing in many_things %}
+    <li>{{ thing.name }} - {{ thing.number }}</li>
+{% empty %}
+    <li>NO THINGS</li>
+{% endfor %}
+</ul>
