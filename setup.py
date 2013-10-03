@@ -1,6 +1,6 @@
 from setuptools import setup
 
-required = ['django==1.4', 'jinja']
+required = ['django==1.4', 'jinja2']
 
 setup(
     name='render-experiments',
