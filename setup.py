@@ -6,6 +6,7 @@ setup(
     name='render-experiments',
     version='0.0.1alpha',
     description='Experiments in template rendering, focusing on Django and Jinja.',
+    packages=['render_experiments'],
     long_description=open('README.rst').read(),
     author='Chris Schomaker',
     author_email='schomaker.c@gmail.com',
